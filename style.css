@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+    background-image: url("bmi3.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+form {
+    display: inline-block;
+    text-align: left;
+    border: solid;
+    border-width: 1px;
+    border-color: white;
+    border-radius: 8px;
+    box-shadow: 5px 5px 5px 5px skyblue ;
+    padding: 10px 20px 10px 20px ;
+    background-color: aliceblue ;
+}
+
+div {
+    margin-bottom: 10px;
+}
+
+label {
+    display: inline-block;
+    width: 120px;
+}
+
+input, select {
+    padding: 5px;
+    font-size: 1rem;
+}
+
+button {
+    margin-top: 10px;
+    padding: 10px 20px;
+    font-size: 1rem;
+    background-color:antiquewhite;
+    border-spacing: 20px;
+}
+
+#result {
+    margin-top: 20px;
+    font-size: 1.2rem;
+    font-weight: bold;
+    text-decoration:underline; 
+    font-family: cursive;
+    font-style: normal;
+}
+h1{
+    font-family: cursive;
+    font-style: normal;
+    
+}
+
